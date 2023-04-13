@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mDS"
+        android:title="Danh Sach"
+        />
+    <item
+        android:id="@+id/mTT"
+        android:title="Thong tin"
+        />
+    <item
+        android:id="@+id/mFL"
+        android:title="Tim kiem va thong ke"
+        />
+</menu>
